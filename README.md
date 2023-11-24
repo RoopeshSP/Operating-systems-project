@@ -12,3 +12,10 @@ The code utilizes psutil to monitor and gather information about running process
 Key concepts covered in the project include process monitoring, data analysis with pandas, datetime manipulation for timestamp handling, and the use of classes and objects to encapsulate functionality. The PageReplacementSimulator class orchestrates the simulation, tracking page replacement history and providing methods to display process information and recent replacement actions.
 
 The project concludes by demonstrating the effectiveness of the implemented algorithms in optimizing memory usage and minimizing page faults. The combination of psutil, pandas, and simulation techniques offers a comprehensive understanding of page replacement strategies and their implications on system performance
+
+
+
+Import:
+psutil
+pandas
+collections
