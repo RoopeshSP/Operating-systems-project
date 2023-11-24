@@ -1,4 +1,4 @@
-# os_project
+# Page Simulator
 Os Project using page replacement
 
 Submitted by: 22BRS1006 - NAGA RITHESH & 22BRS1147 -SP ROOPESH
