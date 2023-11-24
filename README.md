@@ -1,7 +1,7 @@
 # Page Simulator
 Os Project using page replacement
 
-Submitted by: 22BRS1006 - NAGA RITHESH & 22BRS1147 -SP ROOPESH
+Submitted by: 22BRS1006 - NAGA RITHESH & 22BRS1147 -SP ROOPESH MATHAV
 
 
 
@@ -15,7 +15,7 @@ The project concludes by demonstrating the effectiveness of the implemented algo
 
 
 
-Import:
+Import modules:
 psutil
 pandas
 collections
